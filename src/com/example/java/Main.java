@@ -14,6 +14,8 @@ public class Main {
         ParseStringExample.showExamples();
         ObjectTypeExample.showExamples();
         DateExamples.showExamples();
-        LineReaderExample.showExamples();
+        RunTimeErrorExample.showExamples();
+        TryCatchExceptions.showExamples();
+        //LineReaderExample.showExamples();
     }
 }

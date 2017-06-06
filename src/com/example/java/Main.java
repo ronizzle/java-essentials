@@ -10,5 +10,8 @@ public class Main {
         CharExamples.showExamples();
         OperatorExamples.showExamples();
         StringExamples.showExamples();
+        CurrencyExamples.showExamples();
+        LineReaderExample.showExamples();
+        ParseStringExample.showExamples();
     }
 }

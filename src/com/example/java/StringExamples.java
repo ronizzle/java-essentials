@@ -2,7 +2,6 @@ package com.example.java;
 
 
 import java.text.NumberFormat;
-import java.util.Scanner;
 
 public class StringExamples {
     static void showExamples() {
@@ -39,21 +38,6 @@ public class StringExamples {
         sb1.append(" ");
         sb1.append(s7);
         System.out.println(sb1);
-
-        Scanner scanner1 = new Scanner(System.in);
-        System.out.println("Enter value: ");
-        String input1 = scanner1.nextLine();
-        System.out.println(input1);
-
-        sb1.delete(0,sb1.length());
-
-        for(int i2 = 0; i2 < 3; i2++) {
-            System.out.print("Enter value " + i2 + ": ");
-            input1 = scanner1.nextLine();
-            sb1.append(input1 + "\n");
-        }
-
-        System.out.println(sb1.toString());
     }
 }
 

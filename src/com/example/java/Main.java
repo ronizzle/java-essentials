@@ -16,6 +16,8 @@ public class Main {
         DateExamples.showExamples();
         RunTimeErrorExample.showExamples();
         TryCatchExceptions.showExamples();
+        LoopExamples.showExamples();
+        ConditionExamples.showExamples();
         //LineReaderExample.showExamples();
     }
 }

@@ -11,7 +11,9 @@ public class Main {
         OperatorExamples.showExamples();
         StringExamples.showExamples();
         CurrencyExamples.showExamples();
-        LineReaderExample.showExamples();
         ParseStringExample.showExamples();
+        ObjectTypeExample.showExamples();
+        DateExamples.showExamples();
+        LineReaderExample.showExamples();
     }
 }

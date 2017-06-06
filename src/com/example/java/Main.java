@@ -8,5 +8,7 @@ public class Main {
         NumericExamples.showExamples();
         BoolExamples.showExamples();
         CharExamples.showExamples();
+        OperatorExamples.showExamples();
+        StringExamples.showExamples();
     }
 }

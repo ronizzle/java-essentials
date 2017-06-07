@@ -21,8 +21,11 @@ public class Main {
         ConditionExamples.showExamples();
         OverLoadingMethods.showExamples();
         LineReaderExample.showExamples();
+        ReferencesExample.showExamples();
+        HashMapExamples.showExamples();
         */
 
-        ReferencesExample.showExamples();;
+
+        HashMapExamples.showExamples();
     }
 }

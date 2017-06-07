@@ -1,4 +1,4 @@
-package com.example.java;
+package com.example.essentials;
 
 public class CharExamples {
     static void showExamples() {
